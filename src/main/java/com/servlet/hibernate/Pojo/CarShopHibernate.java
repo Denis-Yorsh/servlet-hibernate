@@ -1,4 +1,4 @@
-package Pojo;
+package com.servlet.hibernate.Pojo;
 
 import jakarta.persistence.*;
 

@@ -1,4 +1,4 @@
-package HibernateTest;
+package com.servlet.hibernate.HibernateTest;
 
 import org.hibernate.Session;
 

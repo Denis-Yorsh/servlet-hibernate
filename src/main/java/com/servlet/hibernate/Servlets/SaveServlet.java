@@ -1,6 +1,6 @@
-package Servlets;
+package com.servlet.hibernate.Servlets;
 
-import Pojo.CarShopHibernate;
+import com.servlet.hibernate.Pojo.CarShopHibernate;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
