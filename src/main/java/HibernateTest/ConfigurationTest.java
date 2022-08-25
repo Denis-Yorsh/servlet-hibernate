@@ -1,4 +1,4 @@
-package HibernateConfiguration;
+package HibernateTest;
 
 import org.hibernate.Session;
 
