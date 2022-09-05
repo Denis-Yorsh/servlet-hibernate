@@ -21,7 +21,7 @@ public class CarShopHibernate {
     private int price;
     @Column(name = "getInfo")
     private int getInfo;
-    @Column(name = "isDelete")
+    @Column(name = "isDelete") // nullable = false
     private Boolean isDelete;
 
     public CarShopHibernate() {
